@@ -14,7 +14,7 @@ You'll explore dungeons and encounter enemies on your path to vengeance but they
 
 <p align="center">
 <!-- DO YOU HAVE WHAT IT TAKES? -->
- [![Watch the video](https://img.youtube.com/vi/92_2IWiQlfM/0.jpg)](https://youtu.be/92_2IWiQlfM)
+
 </p>
 
    
@@ -24,7 +24,7 @@ You'll explore dungeons and encounter enemies on your path to vengeance but they
 </p>
 
 <p align="center">
-<!-- [![Watch the video]](https://www.youtube.com/watch?v=92_2IWiQlfM) -->
+WATCH DEMO
 
 [![Watch the video](https://img.youtube.com/vi/92_2IWiQlfM/0.jpg)](https://youtu.be/92_2IWiQlfM)
 </p>
