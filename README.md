@@ -23,7 +23,8 @@ DO YOU HAVE WHAT IT TAKES?
 </p>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/92_2IWiQlfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](http://img.youtube.com/vi/92_2IWiQlfM/0.jpg)](https://www.youtube.com/watch?v=92_2IWiQlfM)
+
 </p>
 
 
