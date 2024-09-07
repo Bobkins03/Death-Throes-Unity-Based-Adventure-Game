@@ -23,7 +23,7 @@ DO YOU HAVE WHAT IT TAKES?
 </p>
 
 <p align="center">
-[![Watch the video](http://img.youtube.com/vi/92_2IWiQlfM/0.jpg)](https://www.youtube.com/watch?v=92_2IWiQlfM)
+[![Watch the video]](https://www.youtube.com/watch?v=92_2IWiQlfM)
 
 
 </p>
