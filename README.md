@@ -13,7 +13,7 @@ You'll explore dungeons and encounter enemies on your path to vengeance but they
 
 
 <p align="center">
-DO YOU HAVE WHAT IT TAKES?
+<!-- DO YOU HAVE WHAT IT TAKES? -->
  [![Watch the video](https://img.youtube.com/vi/92_2IWiQlfM/0.jpg)](https://youtu.be/92_2IWiQlfM)
 </p>
 
