@@ -22,5 +22,9 @@ DO YOU HAVE WHAT IT TAKES?
   <img width="460" height="300" src="https://github.com/Larke20/DeathThroesGame/blob/main/gamelogoV1large.png?raw=true">
 </p>
 
-
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/92_2IWiQlfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+
